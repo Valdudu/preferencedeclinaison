@@ -1,0 +1,1 @@
+# Preferences de livraison pour les déclinaisons de produits
